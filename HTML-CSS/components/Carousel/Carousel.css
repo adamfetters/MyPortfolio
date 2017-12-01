@@ -1,0 +1,19 @@
+.Carousel-Box {
+  
+}
+
+.Carousel__Image-placeholder {
+  justify-content: space-between;
+  margin-top: 100px;
+  background-color: white;
+  width: 250px;
+  height: 250px;
+}
+
+.Carousel__Image--image-show {
+  display: block;
+}
+
+.Carousel__Image--image-not-show {
+  display: none;
+}

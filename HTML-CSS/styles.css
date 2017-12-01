@@ -4,7 +4,8 @@
 @import './components/About.css';
 @import './components/SlantedDiv.css';
 @import './components/Welcome.css';
-@import './components/Projects.css';
+@import './components/Projects/Projects.css';
+@import './components/Carousel/Carousel.css';
 @import './components/Footer.css';
 @import './components/Contact.css';
 
