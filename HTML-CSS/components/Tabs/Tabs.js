@@ -47,8 +47,7 @@ class Tabs {
       return obj;
     }, {});
 
-    console.log(this.items);
-
+   
     this.element.addEventListener('click', (event) => {
       if (event.tabData) {
         this.updateActive(event.tabData);
@@ -66,13 +65,13 @@ class Tabs {
   updateActive(data) {
     if (data === null) return;
     if (this.activeData) {
-      console.log(this.activeData);
+      
       this.links[this.activeData].deselect();
       this.items[this.activeData].deselect();
     }
 
-    this.link[data].select();
-    this.item[data].select();
+    this.links[data].select();
+    this.items[data].select();
     this.activedata = data;
   }
 
