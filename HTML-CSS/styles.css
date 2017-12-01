@@ -8,6 +8,9 @@
 @import './components/Carousel/Carousel.css';
 @import './components/Footer.css';
 @import './components/Contact.css';
+@import './components/List/List.css';
+@import './components/Box/Box.css';
+@import './components/Tabs/Tabs.css';
 
 
 body {
