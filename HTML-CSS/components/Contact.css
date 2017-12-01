@@ -1,13 +1,12 @@
-.Section--Contact {
- justify-content: space-around;
+.Section--Contact  {
+  background-color: skyblue;
+  
+  justify-content: space-around;
+}
 
 .Section--Contact i {
-  padding-bottom: 20px;
-  color: #0C2D41;
-  justify-content: space-between;
+  color: white;
+  web
 }
 
-.Section--Contact a {
- color: #0C2D41;
-  
-}
+
