@@ -1,12 +1,12 @@
 .Section--Contact  {
   background-color: skyblue;
-  
-  justify-content: space-around;
+  justify-content: flex-start;  
 }
 
 .Section--Contact i {
   color: white;
-  web
+  margin-left: 40px;
+  
 }
 
 
