@@ -1,14 +1,10 @@
-.Section--Welcome {
+.Section__Welcome {
   justify-content: space-around;
 }
 
-.Section--Welcome p {
+.Section__Welcome p {
   margin-top: 150px;
   margin-left: 10px;
   font-size: large;
 }
 
-.Section--Welcome h1 {
-  
-  
-}
