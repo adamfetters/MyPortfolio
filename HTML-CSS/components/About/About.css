@@ -1,6 +1,7 @@
 .About__Container {
   display: flex;
   flex-direction: row;
+  background-color: skyblue;
 }
 
 
